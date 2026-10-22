@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.agents/
+.claude/
+agent/
+*.log
+
+# Temporary test/media scratch files
+*.mp4
+*.png
+page.html
+gh_search.json
+check-video.mjs
+extract-frames.mjs
+inspect-video-frames.mjs
+test-entrance.mjs
+test-play.mjs
